@@ -44,5 +44,5 @@ fungsi_str = st.text_input("Masukkan fungsi f(x, y):", "x**2 * y + y**3")
 ...     ax.set_zlabel('z')
 ...     st.pyplot(fig)
 ... 
-... except Exception as e:
+except Exception as e:
 ...     st.error(f"Terjadi kesalahan: {e}")
