@@ -1,0 +1,2 @@
+# Turunan-Parsial-App
+EW
